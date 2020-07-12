@@ -1,4 +1,3 @@
-
 # 🗄 NoteApp
 
 ![Application](https://github.com/BH94/noteapp-react-redux-antd/blob/master/readme-image/application.png?raw=true)
@@ -25,10 +24,10 @@
 
 ## 🔧 How to Use
 
-  ~$ git clone https://github.com/BH94/noteapp-react-redux-antd.git
+    ~$ git clone https://github.com/BH94/noteapp-react-redux-antd.git
 
-  ~$ cd noteapp-react-redux-antd
+    ~$ cd noteapp-react-redux-antd
 
-  ~$ yarn or npm install
+    ~$ yarn or npm install
 
-  ~$ yarn start or npm start
+    ~$ yarn start or npm start
