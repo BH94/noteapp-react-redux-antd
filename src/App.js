@@ -2,13 +2,15 @@ import React, { Component } from "react";
 import "./App.css";
 import "antd/dist/antd.css";
 
-import NoteListContainer from "./containers/NoteListContainer";
+import NoteListContainer from "./containers/ClassContainer";
+import NoteLayoutContainer from "./containers/FunctionalContainer";
 
 class App extends Component {
   render() {
     return (
       <div>
-        <NoteListContainer />
+        {/* <NoteListContainer /> */}
+        <NoteLayoutContainer />
       </div>
     );
   }

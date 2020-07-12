@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 import * as noteActions from "../store/modules/note";
-//import note, addnote;
+
 import NoteLayout from "../components/NoteLayout";
 
 class NoteListContainer extends Component {
