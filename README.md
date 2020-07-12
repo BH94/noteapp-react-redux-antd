@@ -4,7 +4,8 @@
 ![Application](https://github.com/BH94/noteapp-react-redux-antd/blob/master/readme-image/application.png?raw=true)
 
 ## ✍ Blog
-[# 리액트와 리덕스 함께 사용하기 (1)(feat. ant-design)]([https://velog.io/@youthfulhps/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-feat.-ant-design](https://velog.io/@youthfulhps/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-feat.-ant-design))
+
+### [리액트와 리덕스 함께 사용하기 (1)(feat. ant-design)](https://velog.io/@youthfulhps/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80-%EB%A6%AC%EB%8D%95%EC%8A%A4-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-feat.-ant-design)
 
 ## 💡 Skills
 
